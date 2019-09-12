@@ -16,8 +16,13 @@
 	<i class="fas fa-search"></i>		--> Search Icon
 	<i class="fas fa-map-marker-alt"></i>	--> Map icon
 ***
+
 ### Pseudo Class::
 	1) first-class:
 		ul li:first-class{border:none;}
 	2) last-class:
 		ul li:last-class{border:none;}
+
+***
+## G SARWAR
+#### Web Instructor
